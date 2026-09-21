@@ -16,7 +16,7 @@ export const profile = {
 export const links = {
   linkedin: 'https://www.linkedin.com/in/suhani-bhati-aa528828b/',
   github: 'https://github.com/SuhaniBhati',
-  resume: '[PLACEHOLDER_RESUME_URL]',
+  resume: '[https://drive.google.com/file/d/1dsKbWoJP9wyyi6uPoibT6zyfMZco1ncW/view?usp=sharing]',
 }
 
 export const about = {
