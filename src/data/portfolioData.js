@@ -16,7 +16,7 @@ export const profile = {
 export const links = {
   linkedin: 'https://www.linkedin.com/in/suhani-bhati-aa528828b/',
   github: 'https://github.com/SuhaniBhati',
-  resume: 'https://drive.google.com/file/d/1RCK7PV0yINGyTjZsq8yKHwlZoYdG2c32/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/10rU05GM0H-PaF4oIqzHow3NJtWjwabXz/view?usp=sharing',
 }
 
 export const about = {
@@ -79,7 +79,7 @@ export const projects = [
       'Gemini API integration',
     ],
     github: 'https://github.com/SuhaniBhati/SkillSprint-AI',
-    live: null,
+    live: 'https://skill-sprint-ai-mu.vercel.app/',
   },
   {
     id: 'expense-tracker',
@@ -102,7 +102,7 @@ export const projects = [
       'Responsive UI',
     ],
     github: 'https://github.com/SuhaniBhati/Expense-Tracker',
-    live: null,
+    live: 'https://expense-tracker-62jj.vercel.app/',
   },
 ]
 
